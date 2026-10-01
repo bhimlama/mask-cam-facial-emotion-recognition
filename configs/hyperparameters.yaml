@@ -1,0 +1,40 @@
+# Hyperparameters for Mask-CAM
+# Source: Table 5 of the thesis
+
+# --- Loss weights ---
+lambda_sparsity: 0.0012       # λ in Equation 1
+beta_smoothness: 0.0005       # β in Equation 1
+lambda_warmup_epochs: 10      # T_warmup in Equation 5
+
+# --- Optimizer ---
+optimizer: Adam
+learning_rate: 0.001
+
+# --- Scheduler ---
+scheduler: ReduceLROnPlateau
+scheduler_patience: 3
+scheduler_factor: 0.5
+
+# --- Training ---
+batch_size: 128
+epochs: 50
+label_smoothing: 0.1
+dropout_rate: 0.3
+weight_decay: 0.0001
+seed: 42
+num_workers: 2
+
+# --- Data ---
+num_classes: 7
+image_size: 48
+normalization:
+  mean: [0.5]
+  std: [0.5]
+
+# --- Test-time augmentation ---
+tta: horizontal_flip
+
+# --- Test mode (for quick smoke tests) ---
+test_mode: false
+max_train_samples: null
+max_test_samples: null

@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: thesis
+title: "Self-Supervised Masking for Interpretable and Robust Facial Emotion Recognition"
+authors:
+  - family-names: Lama
+    given-names: Bhim
+year: 2026
+month: 8
+school: "Tribhuvan University, Institute of Science and Technology"
+department: "School of Mathematical Sciences"
+degree: "Master of Science in Data Science"
+supervisors:
+  - family-names: Shakya
+    given-names: Subarna
+    affiliation: "Department of Electronics and Communication, Pulchowk Campus, IOE, Tribhuvan University"
+keywords:
+  - facial emotion recognition
+  - self-supervised learning
+  - interpretability
+  - class activation mapping
+  - FERPlus
+  - RAF-DB
+license: MIT
+repository-code: "https://github.com/bhimlama/mask-cam-facial-emotion-recognition"
+url: "https://github.com/bhimlama/mask-cam-facial-emotion-recognition"
