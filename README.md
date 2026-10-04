@@ -1,5 +1,7 @@
 # Mask-CAM: Self-Supervised Masking for Interpretable and Robust Facial Emotion Recognition
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23132270.svg)](https://doi.org/10.5281/zenodo.23132270)
+
 **Bhim Lama**  
 M.Sc. Thesis, Tribhuvan University, 2026  
 Supervisor: Prof. Dr. Subarna Shakya
@@ -103,7 +105,8 @@ If you use this work, please cite:
       year={2026},
       month={August},
       school={Tribhuvan University, Institute of Science and Technology},
-      type={Master's thesis}
+      type={Master's thesis},
+      doi={10.5281/zenodo.23132270}
     }
 
 ## Acknowledgments
