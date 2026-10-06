@@ -4,8 +4,6 @@
 
 **Bhim Lama**  
 M.Sc. Thesis, Tribhuvan University, 2026  
-Supervisor: Prof. Dr. Subarna Shakya
-
 ---
 
 ## Overview
