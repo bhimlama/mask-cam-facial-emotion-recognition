@@ -109,10 +109,6 @@ If you use this work, please cite:
       doi={10.5281/zenodo.23132270}
     }
 
-## Acknowledgments
-
-- Supervisor: Prof. Dr. Subarna Shakya (Department of Electronics and Communication, Pulchowk Campus, IOE, Tribhuvan University)
-- Acting Director: Keshab Raj Phulara (School of Mathematical Sciences, IoST, Tribhuvan University)
 
 ## Contact
 
